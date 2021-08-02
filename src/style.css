@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.home{
+    background-image:url("./img.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 20px;
+}
+.home h1{
+    text-align: center;
+}
+.img-show{
+    width: 100vw;
+    height: 100vh;
+}
